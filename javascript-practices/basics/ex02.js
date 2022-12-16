@@ -42,7 +42,7 @@
 */
 console.log("===기본타입(undefined, number, string, boolean)=======");
 
-var u = undefined; // var u; 동일, 선언 정의가 구분이 없다.
+var u = undefined; // var u; 동일, 선언 정의가 구분이 없다. var = 변수를 만드는 것
 var i = 10;
 var s = "Hello World";
 var b = true;
